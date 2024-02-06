@@ -2,6 +2,10 @@
   "name": "ash-pack",
   "displayName": "ash-pack",
   "description": "personal pack for Ash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtDoctor/ash-pack"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
