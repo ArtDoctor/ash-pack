@@ -1,0 +1,27 @@
+{
+  "name": "ash-pack",
+  "displayName": "ash-pack",
+  "description": "personal pack for Ash",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "eamodio.gitlens",
+    "GitHub.copilotvs",
+    "redhat.vscode-yaml",
+    "bradlc.vscode-tailwindcss",
+    "humao.rest-client",
+    "NeuroForge.neuroforgedev",
+    "MS-vsliveshare.vsliveshare",
+    "ms-python.isort",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "GitHub.copilot-chat",
+    "ms-python.flake8",
+    "codista.vscode-autosave",
+    "zhuangtongfa.Material-theme"
+  ]
+}
